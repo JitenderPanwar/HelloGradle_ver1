@@ -10,7 +10,7 @@ public class Greeter {
     }
     public String sayHello() {
         if (name == "") {
-            return "Hello null name enter!";
+            return "Hello null name enter--test!";
         } else {
             return "Hello My name is print here " + name + "!";
         }
